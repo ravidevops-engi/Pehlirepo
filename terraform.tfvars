@@ -1,0 +1,10 @@
+rg_name = ["rg-prod-webapp-eastus",
+"rg-prod-database-westus",
+"rg-prod-api-europe",
+"rg-prod-network-centralus",
+"rg-prod-analytics-southeastasia",
+"rg-prod-security-northeurope",
+"rg-prod-monitoring-eastasia",
+"rg-prod-storage-japaneast",
+"rg-prod-backup-australiaeast",
+"rg-prod-identity-canadacentral"]
